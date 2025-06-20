@@ -1,0 +1,11 @@
+exp1_experiment_report.md
+exp2_experiment_report.md
+report_revise.md
+report_template.md
+latex_report/
+exp1/data/
+_pycache_/
+__pycache__/
+.vscode/
+.idea/
+.DS_Store
