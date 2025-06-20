@@ -1,0 +1,67 @@
+Deep Learning & Computer Vision Experiments License (DLCV License)
+
+Copyright (c) 2025 Roschild.Rui
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software, experimental code, results, documentation, and associated 
+files (the "Work"), to deal in the Work without restriction, including 
+without limitation the rights to use, copy, modify, merge, publish, distribute, 
+sublicense, and/or sell copies of the Work, and to permit persons to whom the 
+Work is furnished to do so, subject to the following conditions:
+
+MANDATORY ATTRIBUTION REQUIREMENTS:
+1. The above copyright notice and this permission notice shall be included in 
+   all copies or substantial portions of the Work.
+
+2. Any use of the Work, including but not limited to:
+   - Using the experimental code in research or commercial projects
+   - Referencing the experimental results in academic papers or reports
+   - Building upon the methodologies described in this repository
+   - Incorporating any part of the code into other projects
+   
+   MUST include proper attribution in the following format:
+   
+   For Academic Papers/Reports:
+   "This work utilizes code and/or results from the Deep Learning & Computer 
+   Vision Experiments repository by Roschild.Rui. Repository: 
+   https://github.com/RoschildRui/DeepLearning_CV_EXP"
+   
+   For Code/Software:
+   # Based on work by Roschild.Rui
+   # Repository: https://github.com/RoschildRui/DeepLearning_CV_EXP
+   # Contact: roschild.rui@gmail.com
+   
+   For Presentations/Documentation:
+   "Adapted from Roschild.Rui's Deep Learning & Computer Vision Experiments
+   (https://github.com/RoschildRui/DeepLearning_CV_EXP)"
+
+3. If you modify or extend the Work, you must:
+   - Clearly indicate what changes were made
+   - Maintain the original attribution
+   - Include a link to the original repository
+
+4. Commercial use is permitted provided that:
+   - Proper attribution is maintained as specified above
+   - The author (Roschild.Rui) is notified via email: roschild.rui@gmail.com
+   - The attribution is visible to end users of any commercial product
+
+CONTACT INFORMATION:
+Author: Roschild.Rui
+Email: roschild.rui@gmail.com
+Repository: https://github.com/RoschildRui/DeepLearning_CV_EXP
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE
+WORK.
+
+VIOLATION OF ATTRIBUTION REQUIREMENTS:
+Failure to provide proper attribution as specified above constitutes a 
+violation of this license and may result in legal action. The author reserves 
+the right to pursue remedies for unauthorized use without proper attribution.
+
+This license is effective as of June 20, 2025, and applies to all versions 
+of the Work published in the repository. 
